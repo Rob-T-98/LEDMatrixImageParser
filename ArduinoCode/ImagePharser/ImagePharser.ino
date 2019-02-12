@@ -34,16 +34,6 @@ void loop()
 
 void displayImage(String img)
 {
-  /*String col1 = getValue(img,',',0);
-  String col2 = getValue(img,',',1);
-  String col3 = getValue(img,',',2);
-  String col4 = getValue(img,',',3);
-  String col5 = getValue(img,',',4);
-  String col6 = getValue(img,',',5);
-  String col7 = getValue(img,',',6);
-  String col8 = getValue(img,',',7);
-  String col9 = getValue(img,',',8);
-  String col10 = getValue(img,',',9);*/
   String imgArr[10];
   for(int i=0;i<=9;i++)
   {
@@ -117,47 +107,6 @@ void displayColumn(String val)
       digitalWrite(i+2, HIGH);
     }
   }
-  /*
-  if(val.charAt(0)=='1')
-  {
-    digitalWrite(row1, HIGH);
-  }
-  if(val.charAt(1)=='1')
-  {
-    digitalWrite(row2, HIGH);
-  }
-  if(val.charAt(2)=='1')
-  {
-    digitalWrite(row3, HIGH);
-  }
-  if(val.charAt(3)=='1')
-  {
-    digitalWrite(row4, HIGH);
-  }
-  if(val.charAt(4)=='1')
-  {
-    digitalWrite(row5, HIGH);
-  }
-  if(val.charAt(5)=='1')
-  {
-    digitalWrite(row6, HIGH);
-  }
-  if(val.charAt(6)=='1')
-  {
-    digitalWrite(row7, HIGH);
-  }
-  if(val.charAt(7)=='1')
-  {
-    digitalWrite(row8, HIGH);
-  }
-  if(val.charAt(8)=='1')
-  {
-    digitalWrite(row9, HIGH);
-  }
-  if(val.charAt(9)=='1')
-  {
-    digitalWrite(row10, HIGH);
-  }*/
 }
 
 String getValue(String data, char separator, int index)
