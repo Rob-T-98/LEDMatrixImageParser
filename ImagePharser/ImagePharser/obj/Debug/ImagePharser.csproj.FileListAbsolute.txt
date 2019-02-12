@@ -1,0 +1,14 @@
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.csprojAssemblyReference.cache
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.csproj.CoreCompileInputs.cache
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.exe.config
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.exe
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.pdb
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.exe
+C:\Users\Robert\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.pdb
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.exe.config
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.exe
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\bin\Debug\ImagePharser.pdb
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.csprojAssemblyReference.cache
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.csproj.CoreCompileInputs.cache
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.exe
+P:\Dropbox\Dropbox\ImageStuff\ImagePharser\ImagePharser\obj\Debug\ImagePharser.pdb
