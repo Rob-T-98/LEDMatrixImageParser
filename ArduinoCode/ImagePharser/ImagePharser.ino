@@ -44,39 +44,7 @@ void displayImage(String img)
     int x=0;
     while(x<=9)
     {
-      switch(x){
-        case 0:
-          displayColumn(imgArr[x]);
-          break;
-        case 1:
-          displayColumn(imgArr[x]);
-          break;
-        case 2:
-          displayColumn(imgArr[x]);
-          break;
-        case 3:
-          displayColumn(imgArr[x]);
-          break;
-        case 4:
-          displayColumn(imgArr[x]);
-          break;
-        case 5:
-          displayColumn(imgArr[x]);
-          break;
-        case 6:
-          displayColumn(imgArr[x]);
-          break;
-        case 7:
-          displayColumn(imgArr[x]);
-          break;
-        case 8:
-          displayColumn(imgArr[x]);
-          break;
-        case 9:
-          displayColumn(imgArr[x]);
-          break;
-        
-      }
+      displayColumn(imgArr[x]);
       digitalWrite(row1, LOW);
       digitalWrite(row2, LOW);
       digitalWrite(row3, LOW);
